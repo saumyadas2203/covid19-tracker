@@ -4,20 +4,58 @@
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+# COVID-19 Tracker
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+A React.js based web application that provides real-time COVID-19 statistics from around the world.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Features
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+- Real-time COVID-19 data
+- Global statistics dashboard
+- Country-wise case tracking
+- Responsive user interface
+- Easy-to-use design
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+## Technologies Used
 
-API used: https://covid19.mathdro.id/api
+- React.js
+- JavaScript
+- HTML
+- CSS
+- REST API
 
-Setup:
-- run ```npm i && npm start```
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/covid19-tracker.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd covid19-tracker
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm start
+```
+
+## Project Structure
+
+```text
+src/
+public/
+package.json
+README.md
+```
+
