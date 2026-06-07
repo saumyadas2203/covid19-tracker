@@ -4,58 +4,44 @@
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
-# COVID-19 Tracker
 
-A React.js based web application that provides real-time COVID-19 statistics from around the world.
+This is a React.js web application that provides real-time COVID-19 statistics from around the world. The application displays live data on confirmed cases, recoveries, and deaths through an interactive and user-friendly interface.
 
 ## Features
 
-- Real-time COVID-19 data
-- Global statistics dashboard
-- Country-wise case tracking
+- Real-time COVID-19 statistics
+- Global and country-wise data tracking
 - Responsive user interface
-- Easy-to-use design
+- Live API integration
+- Fast and accurate data visualization
 
-## Technologies Used
+## Tech Stack
 
 - React.js
 - JavaScript
-- HTML
-- CSS
-- REST API
+- HTML5
+- CSS3
+- COVID-19 API
 
-## Installation
+## Project Overview
 
-1. Clone the repository
+The COVID-19 Tracker is designed to help users monitor the spread of COVID-19 worldwide. It retrieves live data from a public API and presents it in a clear and organized format. This project demonstrates frontend development skills, API integration, and responsive web design using React.js.
 
-```bash
-git clone https://github.com/your-username/covid19-tracker.git
-```
+## Key Learnings
 
-2. Navigate to the project directory
+- React Components
+- State Management
+- API Integration
+- Responsive Design
+- Modern JavaScript (ES6)
 
-```bash
-cd covid19-tracker
-```
+## Future Enhancements
 
-3. Install dependencies
+- Interactive charts and graphs
+- Historical data analysis
+- Search functionality
+- Dark mode support
+- Enhanced user experience
 
-```bash
-npm install
-```
-
-4. Start the development server
-
-```bash
-npm start
-```
-
-## Project Structure
-
-```text
-src/
-public/
-package.json
-README.md
 ```
 
